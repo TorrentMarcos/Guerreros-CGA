@@ -2,7 +2,7 @@
 ¦ GUERREROS CGA - Versión 1.0 [LÉEME] ¦
 --------------------------------------------------------
 
-• [INFORMACIÓN GENERAL]:
+• **Información general:**
 
 "Guerreros CGA" (Guerreros de la Cultura General Argentina) es un proyecto de juego educativo estilo trivia - totalmente
 gratuito - pensado, diseñado y desarrollado - principalmente - para alumnos de escuela secundaria. El proyecto comenzó
@@ -10,9 +10,11 @@ en 2021 y ha ido evolucionando hasta alcanzar - o así se cree - una versión lo
 Versión 1.0) como para empezar a realizar su distribución. Las herramientas empleadas en este proyecto han sido:
 Microsoft Access (2013), Lenguaje VBA (Visual Basic for Applications) y Adobe Photoshop.
 
+![cgaGuerreros](https://user-images.githubusercontent.com/101758311/195354531-3b2d7fe2-dc0a-46d7-a3fd-b6ba61a0b41e.png)
+
 --------------------------------------------------------
 
-• [CRÉDITOS]:
+• **Créditos:**
 
 	» Autor y desarrollador principal: Marcos Torrent (cga.guerreros@gmail.com)
 	» Otras atribuciones:
@@ -24,14 +26,14 @@ Microsoft Access (2013), Lenguaje VBA (Visual Basic for Applications) y Adobe Ph
 
 --------------------------------------------------------
 
-• [REGISTRO DE CAMBIOS]:
+• **Registro de cambios:**
 
 Dado que esta es la primera versión de "Guerreros CGA" que se distribuye abiertamente, no hay un registro de cambios
 disponibles respecto a las antiguas versiones.
 
 --------------------------------------------------------
 
-• [LICENCIA]: 
+• **Licencia:** 
 
 Esta obra se encuentra bajo una Licencia "Creative Commons Atribución/Reconocimiento-NoComercial-SinDerivados 4.0 Internacional
 (CC BY-NC-ND 4.0)". En pocas palabras, usted es libre de COPIAR y REDISTRIBUIR el material - en cualquier medio y formato -
@@ -51,7 +53,7 @@ de hacer cualquier cosa que permita la licencia.
 
 --------------------------------------------------------
 
-• [ERRORES / BUGS]: 
+• **Errores / Bugs:** 
 
 La versión 1.0 de "Guerreros CGA" ha sido testeada sin mostrar errores. Sin embargo, estas pruebas se han realizado
 en entornos muy reducidos y, en consecuencia, se quiere estar al tanto de los posibles errores / bugs que podrían llegar
